@@ -5,12 +5,7 @@
     "activeMatch": "/guide/"
   },
   {
-    "text": "Hello World",
-    "link": "/hello/",
-    "activeMatch": "/hello/"
-  },
-  {
     "text": "API",
-    "link": "https://rspress.dev/api/index.html"
+    "link": "https://github.com/dongrentianyu/a-tiddlywiki-of-odyssey"
   }
 ]
