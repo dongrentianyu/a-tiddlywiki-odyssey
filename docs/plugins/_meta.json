@@ -1,0 +1,8 @@
+[
+    "index",
+    {
+        "type": "dir",
+        "name": "official",
+        "label": "官方插件库"
+    }
+]

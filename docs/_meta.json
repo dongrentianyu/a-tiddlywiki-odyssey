@@ -1,11 +1,26 @@
 [
   {
-    "text": "Guide",
+    "text": "指南",
     "link": "/guide/",
-    "activeMatch": "/guide/"
+    "activeMatch": "/guide/",
+    "position": "left"
   },
   {
     "text": "API",
-    "link": "https://github.com/dongrentianyu/a-tiddlywiki-of-odyssey"
+    "link": "/api-doc/",
+    "activeMatch": "/api-doc/",
+    "position": "left"
+  },
+  {
+    "text": "插件",
+    "link": "/plugins/",
+    "activeMatch": "/plugins/",
+    "position": "left"
+  },
+  {
+    "text": "进阶",
+    "link": "/advanced/",
+    "activeMatch": "/advanced/",
+    "position": "left"
   }
 ]
