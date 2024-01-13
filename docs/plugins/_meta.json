@@ -1,8 +1,15 @@
 [
     "index",
+    "description",
+    "CPL",
     {
         "type": "dir",
         "name": "official",
         "label": "官方插件库"
+    },
+    {
+        "type": "dir",
+        "name": "kookma",
+        "label": "库克马插件库"
     }
 ]

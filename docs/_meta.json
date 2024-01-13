@@ -22,5 +22,11 @@
     "link": "/advanced/",
     "activeMatch": "/advanced/",
     "position": "left"
+  },
+  {
+    "text": "演示",
+    "link": "/site/",
+    "activeMatch": "/site/",
+    "position": "left"
   }
 ]
