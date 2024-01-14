@@ -1,0 +1,8 @@
+[
+    "index",
+    {
+        "type": "dir",
+        "name": "actions",
+        "label": "动作微件"
+    }
+]

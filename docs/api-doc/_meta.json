@@ -1,3 +1,23 @@
 [
-    "index"
+    "index",
+    {
+        "type": "dir",
+        "name": "filters",
+        "label": "筛选器"
+    },
+    {
+        "type": "dir",
+        "name": "widgets",
+        "label": "微件"
+    },
+    {
+        "type": "dir",
+        "name": "messages",
+        "label": "消息"
+    },
+    {
+        "type": "dir",
+        "name": "system-tags",
+        "label": "系统标签"
+    }
 ]

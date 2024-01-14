@@ -1,3 +1,8 @@
 [
-    "index"
+    "index",
+    {
+        "type": "dir",
+        "name": "customise",
+        "label": "自定义"
+    }
 ]

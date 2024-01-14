@@ -1,0 +1,8 @@
+[
+    "index",
+    {
+        "type": "dir",
+        "name": "editions",
+        "label": "社区发行版"
+    }
+]

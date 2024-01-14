@@ -6,12 +6,6 @@
     "position": "left"
   },
   {
-    "text": "API",
-    "link": "/api-doc/",
-    "activeMatch": "/api-doc/",
-    "position": "left"
-  },
-  {
     "text": "插件",
     "link": "/plugins/",
     "activeMatch": "/plugins/",
@@ -24,9 +18,27 @@
     "position": "left"
   },
   {
+    "text": "API",
+    "link": "/api-doc/",
+    "activeMatch": "/api-doc/",
+    "position": "left"
+  },
+  {
     "text": "演示",
     "link": "/site/",
     "activeMatch": "/site/",
+    "position": "left"
+  },
+  {
+    "text": "版本",
+    "link": "/version/",
+    "activeMatch": "/version/",
+    "position": "left"
+  },
+  {
+    "text": "社区",
+    "link": "/community/",
+    "activeMatch": "/community/",
     "position": "left"
   }
 ]
