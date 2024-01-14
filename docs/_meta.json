@@ -30,15 +30,15 @@
     "position": "left"
   },
   {
-    "text": "版本",
-    "link": "/version/",
-    "activeMatch": "/version/",
-    "position": "left"
-  },
-  {
     "text": "社区",
     "link": "/community/",
     "activeMatch": "/community/",
+    "position": "left"
+  },
+  {
+    "text": "版本",
+    "link": "/version/",
+    "activeMatch": "/version/",
     "position": "left"
   }
 ]
