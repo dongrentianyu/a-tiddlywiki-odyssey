@@ -2,6 +2,10 @@ import * as path from 'path';
 import { defineConfig } from 'rspress/config';
 
 export default defineConfig({
+  markdown: {
+    showLineNumbers: true,
+    defaultWrapCode: true,
+  },
   globalStyles: path.join(__dirname, './src/styles/styles.css'),
   mediumZoom: {
     selector: '.rspress-doc img',

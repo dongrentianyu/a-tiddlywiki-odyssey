@@ -4,5 +4,15 @@
         "type": "dir",
         "name": "customise",
         "label": "自定义"
+    },
+    {
+        "type": "dir",
+        "name": "interflow",
+        "label": "联动"
+    },
+    {
+        "type": "dir",
+        "name": "note",
+        "label": "笔记"
     }
 ]

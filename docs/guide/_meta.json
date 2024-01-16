@@ -1,5 +1,15 @@
 [
     "index",
     "how-to-ask",
-    "how-to-report-bug"
+    "how-to-report-bug",
+    {
+        "type": "dir",
+        "name": "tidgi",
+        "label": "太记"
+    },
+    {
+        "type": "dir",
+        "name": "use-wiki",
+        "label": "使用太微"
+    }
 ]

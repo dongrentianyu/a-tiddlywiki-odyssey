@@ -1,8 +1,11 @@
 .font-semibold {
-  font-size: 22px;
+  font-size: 20px;
   color: #0095ff;
 }
 .leading-7 {
   line-height: 1.75rem;
-  font-size: 20px;
+}
+.text-2xl {
+  font-size: 1.75rem;
+  line-height: 2rem;
 }
