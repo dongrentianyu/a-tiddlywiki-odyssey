@@ -1,6 +1,9 @@
 [
+    "tiddler",
     "basic-editing",
     "wikitext",
-    "basic-setting",
-    "layout"
+    "control-panel",
+    "layout",
+    "search",
+    "button"
 ]

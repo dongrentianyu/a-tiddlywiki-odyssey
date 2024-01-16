@@ -11,5 +11,10 @@
         "type": "dir",
         "name": "use-wiki",
         "label": "使用太微"
+    },
+    {
+        "type": "dir",
+        "name": "skill",
+        "label": "小技巧"
     }
 ]
