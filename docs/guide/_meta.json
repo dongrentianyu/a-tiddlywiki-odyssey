@@ -14,7 +14,7 @@
     },
     {
         "type": "dir",
-        "name": "skill",
-        "label": "小技巧"
+        "name": "use-wiki",
+        "label": "使用太微"
     }
 ]
