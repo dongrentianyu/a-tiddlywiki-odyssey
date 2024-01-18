@@ -16,5 +16,10 @@
         "type": "dir",
         "name": "use-wiki",
         "label": "使用太微"
+    },
+    {
+        "type": "dir",
+        "name": "extend-wiki",
+        "label": "扩展太微"
     }
 ]

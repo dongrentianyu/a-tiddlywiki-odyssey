@@ -24,15 +24,15 @@
     "position": "left"
   },
   {
-    "text": "演示",
-    "link": "/site/",
-    "activeMatch": "/site/",
-    "position": "left"
-  },
-  {
     "text": "社区",
     "link": "/community/",
     "activeMatch": "/community/",
+    "position": "left"
+  },
+  {
+    "text": "演示",
+    "link": "/site/",
+    "activeMatch": "/site/",
     "position": "left"
   },
   {

@@ -1,3 +1,9 @@
 [
-    "index"
+    "native",
+    "tidgi",
+    "tiddlywiki-desktop",
+    "tiddlyhost",
+    "nodejs",
+    "quine-2",
+    "tiddloid"
 ]
