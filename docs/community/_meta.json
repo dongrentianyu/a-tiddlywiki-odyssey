@@ -9,5 +9,10 @@
         "type": "dir",
         "name": "template",
         "label": "发行版"
+    },
+    {
+        "type": "dir",
+        "name": "version",
+        "label": "版本更新"
     }
 ]

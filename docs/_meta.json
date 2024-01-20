@@ -34,11 +34,5 @@
     "link": "/site/",
     "activeMatch": "/site/",
     "position": "left"
-  },
-  {
-    "text": "版本",
-    "link": "/version/",
-    "activeMatch": "/version/",
-    "position": "left"
   }
 ]
