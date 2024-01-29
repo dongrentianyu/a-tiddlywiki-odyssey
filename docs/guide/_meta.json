@@ -4,6 +4,11 @@
     "how-to-report-bug",
     {
         "type": "dir",
+        "name": "tutorials",
+        "label": "太微教程"
+    },
+    {
+        "type": "dir",
         "name": "tidgi",
         "label": "太记"
     },
