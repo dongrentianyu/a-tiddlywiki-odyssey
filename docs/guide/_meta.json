@@ -1,7 +1,10 @@
 [
     "index",
-    "how-to-ask",
-    "how-to-report-bug",
+    {
+        "type": "dir",
+        "name": "prepare",
+        "label": "粮草先行"
+    },
     {
         "type": "dir",
         "name": "tutorials",
@@ -10,7 +13,7 @@
     {
         "type": "dir",
         "name": "tidgi",
-        "label": "太记"
+        "label": "使用太记"
     },
     {
         "type": "dir",
