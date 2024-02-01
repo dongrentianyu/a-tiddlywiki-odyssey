@@ -1,7 +1,10 @@
 [
     "index",
-    "description",
-    "CPL",
+    {
+        "type": "dir",
+        "name": "instruction",
+        "label": "插件说明"
+    },
     {
         "type": "dir",
         "name": "official",
@@ -14,8 +17,18 @@
     },
     {
         "type": "dir",
-        "name": "linonetwo",
-        "label": "林一二插件库"
+        "name": "tiddlywiki-chinese-community",
+        "label": "太微中文社区"
+    },
+    {
+        "type": "dir",
+        "name": "diagram",
+        "label": "图形类插件"
+    },
+    {
+        "type": "dir",
+        "name": "feature",
+        "label": "功能类插件"
     },
     {
         "type": "dir",

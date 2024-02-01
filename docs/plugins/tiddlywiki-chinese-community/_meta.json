@@ -1,0 +1,18 @@
+[
+    "dd",
+    {
+        "type": "dir",
+        "name": "linonetwo",
+        "label": "林一二插件库"
+    },
+    {
+        "type": "dir",
+        "name": "oeyoews",
+        "label": "oeyoews插件库"
+    },
+    {
+        "type": "dir",
+        "name": "xp",
+        "label": "XP插件"
+    }
+]
