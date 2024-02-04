@@ -14,5 +14,10 @@
         "type": "dir",
         "name": "version",
         "label": "版本更新"
+    },
+    {
+        "type": "dir",
+        "name": "foresight",
+        "label": "太微前瞻"
     }
 ]

@@ -1,7 +1,8 @@
 [
-    "attachment",
-    "tag-field",
+    "index",
     "filter",
+    "tag-field",
+    "widget",
     "import-out",
     "automation",
     "snippet"
