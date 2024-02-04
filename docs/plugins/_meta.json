@@ -32,6 +32,11 @@
     },
     {
         "type": "dir",
+        "name": "others",
+        "label": "其他插件"
+    },
+    {
+        "type": "dir",
         "name": "themes",
         "label": "主题插件库"
     }

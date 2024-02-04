@@ -1,3 +1,9 @@
 [
-    "dd"
+    "index",
+    "code-mirror",
+    "highlight",
+    "katex",
+    "markdown",
+    "qrcode",
+    "dynannotate"
 ]
