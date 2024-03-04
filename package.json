@@ -8,9 +8,9 @@
     "preview": "rspress preview"
   },
   "dependencies": {
-    "rspress": "^1.12.2"
+    "rspress": "^1.13.2"
   },
   "devDependencies": {
-    "@types/node": "^16.18.83"
+    "@types/node": "^16.18.86"
   }
 }
